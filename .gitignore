@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+npm-debug.log*
+
+# Docker
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Database data (don't commit database files)
+postgres-data/
+data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
