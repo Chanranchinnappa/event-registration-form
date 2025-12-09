@@ -56,7 +56,6 @@ docker-compose up -d
 
 - **Frontend**: http://localhost:8080
 - **Admin Dashboard**: http://localhost:8080/admin.html
-- **API**: http://localhost/api
 - **Health Check**: http://localhost/health
 
 ### 4. View Logs
